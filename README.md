@@ -29,6 +29,32 @@ The project uses the following datasets:
 - **Global Population Data**: Historical population statistics from 2000 to 2023, projected up to 2030.
 - **Fertility Data**: Fertility rates across various regions and countries, along with demographic statistics for female populations.
 - **Energy Consumption Data**: Data on energy consumption by region and per capita energy usage for selected countries.
+Here's the updated section of your `README.md` file that includes a detailed explanation of the parameter usage with coding:
+
+## Dynamic Parameters for Socioeconomic Indicators
+
+This project utilizes a parameter-driven approach to explore multiple socioeconomic indicators dynamically. The parameter control allows users to select different variables and view their corresponding visualizations. These parameters are coded in the dashboard to make the analysis highly interactive and customizable based on the user’s interest.
+
+### Available Parameters
+
+- **Internet Users Percentage**: Displays the percentage of internet users in relation to the total population for each country.
+- **Total Internet Users**: Shows the absolute number of internet users by country.
+- **CO2 Emissions per Capita**: Visualizes carbon dioxide emissions on a per-person basis by country.
+- **Total CO2 Emissions**: Displays the total CO2 emissions by country.
+- **Electrical Power Consumption per Capita**: Shows the electrical power consumption per capita in different countries.
+- **Total Electrical Power Consumption**: Displays the total electrical power consumed by each country.
+- **Life Expectancy**: Illustrates the average life expectancy by country, offering insights into health and longevity trends.
+- **Mortality Rate Under 5**: Shows the under-5 mortality rate by country, providing insights into public health conditions.
+
+### Parameter Implementation
+
+The parameter allows users to dynamically change the measure they want to explore. By switching the parameter, the corresponding bar charts and maps in the **Global Socioeconomic and Environmental Indicators Dashboard** will update to reflect the selected variable. This feature makes the dashboard flexible for different types of analysis without needing to manually adjust the underlying data.
+
+For example:
+- When **"Total Internet Users"** is selected, the map and bar graph will display the absolute number of internet users per country.
+- When **"CO2 per Capita"** is selected, the visualization updates to show CO2 emissions per capita.
+
+This coding was implemented using calculated fields in Tableau, enabling real-time changes across the dashboard without additional manual filtering. The flexibility provided by parameters enhances the usability of the dashboard for multiple analyses within a single view.
 
 ## Visualizations and Dashboards
 
