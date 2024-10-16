@@ -22,12 +22,6 @@ This Tableau project offers a comprehensive analysis of global population trends
     └── Images/                   # Screenshots of the Tableau dashboards
 ```
 
-### Files
-
-- **`Homework_2_Group_12.twb`**: The Tableau workbook containing the full set of dashboards and visualizations.
-- **`Data/`**: The folder containing the datasets used for this project.
-- **`Images/`**: Screenshots of the key dashboards for previewing the work.
-
 ## Data Sources
 
 The project uses the following datasets:
