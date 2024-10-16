@@ -41,8 +41,6 @@ This dashboard provides a detailed analysis of global population trends and proj
 - **Country-Level Population**: A geographical map that visualizes population distribution across various countries in 2023.
 - **Population Forecasting Model**: A time-series graph that forecasts world population growth up to 2030, using additive trend modeling and confidence intervals.
 
-![Global Population Insights](Images/dashboard1.png)
-
 ### Global Fertility Trends and Female Population Statistics
 
 This dashboard explores fertility rates and female population statistics across the globe:
