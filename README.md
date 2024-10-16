@@ -48,7 +48,7 @@ This dashboard provides a comprehensive view of global population trends:
 - **World Map**: A map that displays the population distribution across countries in 2023.
 - **Forecasting Model**: A time-series chart predicting world population growth up to 2030, using an additive trend model with confidence intervals.
 
-![Global Population Insights](Images/dashboard1.png)
+
 
 ### Global Fertility Trends and Female Population Statistics
 
@@ -59,7 +59,7 @@ This dashboard focuses on global fertility rates and the female population:
 - **Female Population Percentage Map**: A geographical map showing the female population percentage by country.
 - **Fertility Trends by Country**: Time-series data showing the changes in female population percentage in various countries over time.
 
-![Global Fertility Trends](Images/dashboard2.png)
+
 
 ### Global Socioeconomic and Environmental Indicators
 
@@ -68,7 +68,7 @@ This dashboard allows for the exploration of various socioeconomic indicators:
 - **Bar Chart**: Visualizes total internet users by country for 2022.
 - **World Map**: Displays selected socioeconomic and environmental indicators on a world map.
 
-![Global Socioeconomic Indicators](Images/dashboard3.png)
+
 
 ### Female Population Dashboard
 
@@ -76,8 +76,6 @@ This dashboard explores female population trends across various countries and re
 
 - **Bar Chart**: Shows the female population percentage globally, along with continent-wise comparisons.
 - **Time-Series Analysis**: Female population trends from 2008 to 2023.
-
-![Female Population Dashboard](Images/dashboard4.png)
 
 ## Forecasting
 
