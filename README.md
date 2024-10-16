@@ -17,7 +17,7 @@ This Tableau project offers a comprehensive analysis of global population trends
 ```
 /Global_Population_Insights_Project
     ├── Data/                    # Contains the datasets used for the visualizations
-    ├── Homework_2_Group_12.twb   # The Tableau workbook with all visualizations and dashboards
+    ├── Global Population, Socioeconomic, and Energy Insights/ # The Tableau workbook with all visualizations and dashboards
     ├── README.md                 # Project documentation
     └── Images/                   # Screenshots of the Tableau dashboards
 ```
